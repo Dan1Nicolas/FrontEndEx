@@ -1,0 +1,20 @@
+.hero-container {
+  display: flex;
+  gap: 20px;
+}
+
+.hero-box {
+  width: 300px;
+  margin: 0 auto;
+  background-color: #eee;
+  text-align: center;
+}
+
+.hero-box img {
+  width: 250px;
+  height: 200px;
+}
+
+#title {
+  text-align: center;
+}

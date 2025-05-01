@@ -8,6 +8,11 @@
   margin: 0 auto;
   background-color: #eee;
   text-align: center;
+  border-radius: 15px;
+  border-bottom-width: 7px;
+  border-color: #0a74da;
+  border-style: solid;
+  box-shadow: 10px 10px 20px #000;
 }
 
 .hero-box img {
@@ -15,6 +20,25 @@
   height: 200px;
 }
 
+.box-background {
+  background-color: #1b1f23;
+}
+
 #title {
   text-align: center;
+  color: #0a74da;
+}
+
+#capitao-america {
+  color: #0a74da
+}
+
+#homem-ferro {
+  color:#c62828;
+  border-color: #c62828
+}
+
+#thor {
+  color: #f9a825;
+  border-color: #f9a825
 }

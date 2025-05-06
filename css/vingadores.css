@@ -1,11 +1,13 @@
 .hero-container {
   display: flex;
-  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  height: 500px;
 }
 
 .hero-box {
   width: 300px;
-  margin: 0 auto;
   background-color: #eee;
   text-align: center;
   border-radius: 15px;

@@ -1,0 +1,24 @@
+.hero-label {
+  display: flex;
+  width: 500px;
+  background-color: #1b1f23;
+  color: #fff;
+  justify-content: space-around;
+  align-items: center;
+  border: #0a74da 2px solid;
+}
+
+.hero-label img {
+  width: 176px;
+  height: 100px;
+}
+
+.hero-label div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-name {
+  font-weight: 700;
+}

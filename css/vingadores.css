@@ -3,7 +3,8 @@
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
-  height: 500px;
+  align-content: space-around;
+  height: 800px;
 }
 
 .hero-box {

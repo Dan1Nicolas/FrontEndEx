@@ -22,3 +22,8 @@
 .hero-name {
   font-weight: 700;
 }
+
+.hero-card {
+  display: flex;
+  flex-wrap: wrap;
+}
